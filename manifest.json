@@ -1,0 +1,8 @@
+{
+  "name": "ExampleMessagePlugin",
+  "version": "0.0.1",
+  "description": "Example plugin for making message plugins",
+  "author": "Zeptos",
+  "license": "MIT",
+  "dependencies": [ "pc-commands" ]
+}
